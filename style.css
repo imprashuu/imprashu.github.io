@@ -399,6 +399,10 @@ footer .text span a:hover{
   display: none;
 }
 
+.media-icon a{
+  margin: 0 25px;
+}
+
 /* Responsive Media Query */
 @media (max-width: 1190px) {
   section .content{
